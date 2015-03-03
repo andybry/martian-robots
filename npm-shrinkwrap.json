@@ -1,0 +1,16 @@
+{
+  "name": "robots-on-mars",
+  "version": "1.0.0",
+  "dependencies": {
+    "split": {
+      "version": "0.3.3",
+      "from": "split@*",
+      "resolved": "https://registry.npmjs.org/split/-/split-0.3.3.tgz"
+    },
+    "through": {
+      "version": "2.3.6",
+      "from": "through@*",
+      "resolved": "https://registry.npmjs.org/through/-/through-2.3.6.tgz"
+    }
+  }
+}
